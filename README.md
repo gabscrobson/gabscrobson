@@ -1,6 +1,6 @@
 # Olá!
 
-Eu sou o Gabriel Accetta, estudante do segundo período de Sistemas de Informação na <a href="https://www.unilasalle.edu.br/rj">UniLaSalle-RJ</a>
+Eu sou o Gabriel Accetta, estudante do segundo período de Sistemas de Informação na <a href="https://www.unilasalle.edu.br/rj">UniLaSalle-RJ</a>.
 
 ## Meu projetos
 
