@@ -13,4 +13,4 @@ Eu sou o Gabriel Accetta, estudante do segundo período de Sistemas de Informaç
 
 ## Contato
 
-Você pode entrar em contato comigo através do email <gmta1410@gmail.com>.
+Você pode entrar em contato comigo através do email <gmta1410@gmail.com> ou pelo meu [LinkedIn](https://www.linkedin.com/in/gabriel-accetta-288959192/).
