@@ -8,6 +8,7 @@ Eu sou o Gabriel Accetta, estudante do segundo período de Sistemas de Informaç
 
 * [Event Horizon Archive](https://gabscrobson.github.io/eventHorizonArchive) uma página web responsiva a respeito das duas fotos divulgadas pelo Event Horizon Telescope nos ultimos anos.
 * [bmp.h](https://github.com/gabscrobson/bmp.h) uma biblioteca para manipulação de imagens bmp em C.
+* [pokewho](https://github.com/gabscrobson/pokewho) uma aplicção web em flask.
 
 <br>Mais projetos podem ser vistos nesse perfil do GitHub.
 
