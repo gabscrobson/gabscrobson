@@ -2,7 +2,6 @@
 # Olá!
 
 Eu sou o Gabriel Accetta, estudante do segundo período de Sistemas de Informação na <a href="https://www.unilasalle.edu.br/rj">UniLaSalle-RJ</a>.
--->
 
 ## Meus projetos
 
@@ -11,6 +10,7 @@ Eu sou o Gabriel Accetta, estudante do segundo período de Sistemas de Informaç
 * [pokewho](https://github.com/gabscrobson/pokewho) uma aplicção web em flask.
 
 <br>Mais projetos podem ser vistos nesse perfil do GitHub.
+-->
 
 ## Contato
 
